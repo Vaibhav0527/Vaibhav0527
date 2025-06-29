@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vaibhav Gupta 👋
 
-<!--
-**Vaibhav0527/Vaibhav0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE @ IIIT Bhagalpur (2023–2027)  
+💻 Frontend Developer | React | JavaScript | Tailwind CSS  
+📈 Passionate about Data Structures & Algorithms  
+📚 Currently solving 140+ problems on LeetCode  
+🚀 Seeking internship opportunities in frontend development
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Languages: C, C++, JavaScript, HTML, CSS
+- Frameworks: React, Tailwind CSS
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- **Weather App** – JavaScript | HTML | CSS  
+  Realtime weather info using public API  
+- **Password Generator** – JavaScript  
+  Create secure passwords based on user input
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/vaibhav-gupta-170a0b288/)
