@@ -17,6 +17,6 @@
   Realtime weather info using public API  
 - **Password Generator** – JavaScript  
   Create secure passwords based on user input
-
+[![An image of @vaibhav0527's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav0527)](https://holopin.io/@vaibhav0527)
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/vaibhav-gupta-170a0b288/)
