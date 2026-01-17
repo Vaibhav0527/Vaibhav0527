@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h1 align="center">
-नमस्ते (Namaste), I Am Shiva Yadav !<br>
+नमस्ते (Namaste), I Am vaibhav gupta !<br>
 </h1>
 <h1 align="center">
 
@@ -28,7 +28,7 @@ I once built a chess game website from scratch — and it actually beat me once!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA00202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 # 🎖️ Holopin Badges:
-[![An image of @shiva00202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva00202)](https://holopin.io/@shiva00202)
+[![An image of @shiva00202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Vaibhav0527)](https://holopin.io/@Vaibhav0527)
 # 🏆 GitHub Trophies:
 ![](https://hacked-github-stat-trophies.vercel.app/?username=shiva00202&theme=dracula&column=11)
 
