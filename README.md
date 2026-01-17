@@ -14,8 +14,8 @@ I once built a chess game website from scratch — and it actually beat me once!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shiva-yadav-476660349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivayadav/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shivayadav2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivayada2/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-gupta-170a0b288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-gupta-170a0b288/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vaibhav0527/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhav0527/" height="30" width="40" /></a>
 
 </p>
 
@@ -30,16 +30,16 @@ I once built a chess game website from scratch — and it actually beat me once!
 # 🎖️ Holopin Badges:
 [![An image of @shiva00202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Vaibhav0527)](https://holopin.io/@Vaibhav0527)
 # 🏆 GitHub Trophies:
-![](https://hacked-github-stat-trophies.vercel.app/?username=shiva00202&theme=dracula&column=11)
+![](https://hacked-github-stat-trophies.vercel.app/?username=Vaibhav0527&theme=dracula&column=11)
 
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=SHIVA00202&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Vaibhav0527&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHIVA00202&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vaibhav0527&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <center>
@@ -54,7 +54,7 @@ I once built a chess game website from scratch — and it actually beat me once!
 
 
 
-<a hraf="https://www.linkedin.com/in/darshanpc/">
+<a hraf="https://www.linkedin.com/in/vaibhav-gupta-170a0b288/">
   
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
 
